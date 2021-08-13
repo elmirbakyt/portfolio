@@ -1,0 +1,351 @@
+ body {
+    margin: 0;
+    padding: 0;
+    
+
+
+ }
+
+ .obshi {
+   position: absolute;
+   width: 1445px;
+   height: 4759px;
+   left: 0px;
+   top: 0px;
+   
+   background-color: white;
+ }
+
+ .header{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   position: absolute;
+   
+   /*линя*/
+   width: 943.61px;
+   height: 0px;
+   left: 250px;
+   top: 87px;
+
+border: 1px solid rgb(175, 173, 173);
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+
+   
+   
+   font-style:normal;
+   font-weight:normal;
+   font-size: 16px;
+   line-height: 135%;
+    
+ }
+ 
+ .glav ul {
+   display: flex;
+   list-style: none;
+   margin-left: 0;
+   margin-top: -20px;
+   font-weight: bold;
+   font-family: Gilroy-Bold;
+   
+
+   padding-bottom: 20px;
+}
+ 
+
+.glav ul li {
+   margin-right: 159px;
+   font-size: 17px;
+}
+
+h2 {
+position: absolute;
+left: 1.7%;
+right: 74.08%;
+top: 2.69%;
+bottom: 95.22px;
+
+font-family: Gilroy-Bold;
+font-size: 47.3392px;
+line-height: 50px;
+
+}
+
+h4 {
+   position: absolute;
+left: 46.49%;
+right: 30.74%;
+top: 3.85%;
+bottom: 95.22px;
+margin-top: 11.35%;
+
+font-family: Gilroy-Medium;
+font-size: 18px;
+line-height: 22px;
+
+/* Black */
+
+color: #070707;
+
+}
+
+.til {
+   position: absolute;
+left: 870px;
+right: 1px;
+top: 95px;
+bottom: 0;
+
+font-family: Gilroy-Bold;
+font-size: 16px;
+line-height: 20px;
+
+
+color: black;
+
+transform: rotate(-90deg);
+}
+
+img {
+position: absolute;
+width: 943.61px;
+height: 387px;
+left: 0 auto;
+top: 176.94px;
+}
+
+
+.twoPg {
+   position: absolute;
+width: 1445px;
+height: 506px;
+left: 0px;
+top: 768px;
+
+background: #F6F6F6;
+}
+
+.i {
+   position: absolute;
+left: 44.68%;
+right: 44.54%;
+top: 18.66%;
+bottom: 80.43%;
+
+font-family: Gilroy-Bold;
+font-size: 34px;
+line-height: 42px;
+text-align: center;
+
+/* Black */
+
+color: #070707;
+}
+
+h3 {
+   position: absolute;
+width: 485.34px;
+height: 218px;
+left: 480.33px;
+top: 220px;
+
+font-family: Gilroy-Medium;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+word-wrap: normal;
+
+/* Black */
+
+color: #070707;
+
+}
+/*skills*/
+.skills h1 {
+   position: absolute;
+left: 45.8%;
+right: 45.59%;
+top: 28.68%;
+bottom: 70.77%;
+
+font-family: Gilroy-Bold;
+font-size: 34px;
+line-height: 42px;
+text-align: center;
+
+/* Black */
+
+color: #070707;
+
+}
+
+.skills h3 {
+position: absolute;
+left: 32%;
+right: 42.04%;
+top: 30.68%;
+bottom: 68.81%;
+
+font-family: Gilroy-Medium;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+/* Black */
+
+color: #070707;
+
+}
+
+.icon1{
+position: absolute;
+width: 166.46px;
+height: 206.29px;
+left: 255.71px;
+top: 1566.65px;
+
+}
+.icon2 {
+   position: absolute;
+   width: 166.46px;
+   height: 206.27px;
+   left: 512.42px;
+   top: 1567.67px;
+}
+
+.icon3 {
+   position: absolute;
+   width: 166.46px;
+   height: 206.27px;
+   left: 769.13px;
+   top: 1567.67px;
+   
+}
+
+.icon4{
+   position: absolute;
+   width: 166.46px;
+   height: 205.27px;
+   left: 1025.84px;
+   top: 1567.67px;
+   
+}
+
+/*Prtfolio*/
+
+.portfolio {
+position: absolute;
+width: 1445px;
+height: 2253px;
+left: 0px;
+top: 1884px;
+
+background: #F6F6F6;
+
+
+}
+.ph1 {
+position: absolute;
+width: 936.24px;
+height: 510px;
+left: 257.71px;
+top: 208px;
+
+}
+.ph2 {
+
+position: absolute;
+width: 936.24px;
+height: 522px;
+left: 256.89px;
+top: 950px;
+
+
+}
+
+.ph3 {
+position: absolute;
+width: 936.24px;
+height: 522px;
+left: 252.7px;
+top: 1600px;
+
+
+}
+
+.portfolio h1{
+position: absolute;
+left: 45.62%;
+right: 45.21%;
+top: 4%;
+bottom: 10px;
+
+font-family: Gilroy-Bold;
+font-size: 34px;
+line-height: 42px;
+text-align: center;
+
+/* Black */
+
+color: #070707;
+
+}
+
+.text1 {
+   position: absolute;
+left: 40.79%;
+right: 40.1%;
+top: 35%;
+bottom: 44.02%;
+
+font-family: Gilroy-Medium;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+text-decoration-line: underline;
+
+/* Black */
+
+color: #070707;
+
+}
+
+.text2 {
+   position: absolute;
+left: 43.36%;
+right: 42.6%;
+top: 67%;
+bottom: 29.57%;
+
+font-family: Gilroy-Medium;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+text-decoration-line: underline;
+
+/* Black */
+
+color: #070707;
+
+
+}
+
+.text3 {
+   position: absolute;
+left: 41.42%;
+right: 40.65%;
+top: 95%;
+bottom: 5%;
+
+font-family: Gilroy-Medium;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+text-decoration-line: underline;
+
+/* Black */
+
+color: #070707;
+
+}
